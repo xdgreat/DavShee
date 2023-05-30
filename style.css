@@ -157,11 +157,13 @@ footer {
 }
 
 .copyright {
-  font-size: 25px;
+  font-size: 20px;
   margin-left: 1em;
 
 }
-
+.fa-brands{
+  font-size:20px;
+}
 .other-information > h1 {
   font-size: 18px;
 }
