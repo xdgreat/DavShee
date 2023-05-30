@@ -150,7 +150,7 @@ nav::before {
 footer {
   display: flex;
   justify-content: space-between;
-  margin-top: 10dvh;
+  margin-top: 12dvh;
   align-items: end;
 }
 .other-information {
