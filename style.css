@@ -60,7 +60,7 @@ nav::before {
 
 .logo {
   filter: invert(100%) saturate(100%) hue-rotate(70deg);
-  width: 25em;
+  width: 20em;
 }
 .listed-links {
   font-size: 25px;
