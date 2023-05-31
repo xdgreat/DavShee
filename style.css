@@ -60,7 +60,7 @@ nav::before {
 
 .logo {
   filter: invert(100%) saturate(100%) hue-rotate(70deg);
-  width: 25em;
+  width: 20em;
 }
 .listed-links {
   font-size: 25px;
@@ -157,20 +157,21 @@ nav::before {
 footer {
   display: flex;
   justify-content: space-between;
-  margin-top: auto;
-  margin-bottom: 0;
+  margin-top: 12dvh;
   align-items: end;
-  display: none;
 }
 .other-information {
 }
 
 .copyright {
-  font-size: 25px;
+  font-size: 20px;
   margin-left: 1em;
 
 }
-
+.fa-brands{
+  font-size:20px;
+}
 .other-information > h1 {
   font-size: 18px;
+  margin:0;
 }
