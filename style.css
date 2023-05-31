@@ -16,7 +16,7 @@ body::before {
   background-image: url(/media/movie-collage.jpg);
   position: absolute;
   filter: brightness(20%);
-  transform: scale(210%) rotate3d(1, 1, -1, 30deg);
+  transform: scale(300%) rotate3d(1, 1, -1, 30deg);
   inset: 0;
   background-size: cover;
   z-index: -2;
@@ -59,8 +59,8 @@ nav::before {
 }
 
 .logo {
-  /* filter: invert(100%) saturate(100%) hue-rotate(70deg); */
-  mix-blend-mode: color-dodge;
+  filter: invert(100%) saturate(100%) hue-rotate(70deg);
+  /* mix-blend-mode: luminosity; */
   width: 18em;
 }
 .listed-links {
