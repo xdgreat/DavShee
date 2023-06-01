@@ -59,8 +59,8 @@ nav::before {
 }
 
 .logo {
-  /* filter: invert(100%) saturate(100%) hue-rotate(70deg); */
-  mix-blend-mode: color-dodge;
+  filter: invert(100%) saturate(100%) hue-rotate(70deg);
+/*   mix-blend-mode: color-dodge; */
   width: 18em;
 }
 .listed-links {
