@@ -60,7 +60,11 @@ nav::before {
 
 .logo {
   filter: invert(100%) saturate(100%) hue-rotate(70deg);
+<<<<<<< HEAD
   /* mix-blend-mode: luminosity; */
+=======
+/*   mix-blend-mode: color-dodge; */
+>>>>>>> 35e9a6b0659a6a6bd4f5c3f7cc0aedf7531edb13
   width: 18em;
 }
 .listed-links {
